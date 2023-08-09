@@ -1,6 +1,6 @@
 # hack-typefire
 
-this is a script that uses puppeteer to get perfect scores in [typefire.xyz](typefire.xyz) (Check it out it's a pretty cool site!).
+this is a script that uses puppeteer to get perfect scores in [typefire.xyz](https://typefire.xyz) (Check it out it's a pretty cool site!).
 
 ## why?
 
