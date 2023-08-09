@@ -20,13 +20,13 @@ touch .env
 # check out .env.example
 
 # install dependencies (run only one of these)
-pnpm install -> pnpm
-npm install  -> npm
-yarn         -> yarn
+pnpm install # -> pnpm
+npm install  # -> npm
+yarn         # -> yarn
 
 # run the script (index.js)
-npm run dev OR
-yarn dev    OR
+npm run dev # OR
+yarn dev    # OR
 pnpm dev 
 ```
 
